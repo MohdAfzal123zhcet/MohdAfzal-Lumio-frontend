@@ -1,0 +1,26 @@
+/* index.css or App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #001f3f; /* dark navy blue */
+  color: white;
+}
+
+h1, h2, h3, p, label {
+  color: white;
+}
+
+button {
+  background-color: white;
+  color: #001f3f;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
